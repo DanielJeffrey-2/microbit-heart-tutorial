@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Z.v.if$xLD^4)1(k{Q$7" x="-748" y="-620"><statement name="HANDLER"><block type="basic_show_icon" id="h4X-TjEb-RRkL$Em^MOh"><field name="i">IconNames.Heart</field></block></statement></block></xml>
